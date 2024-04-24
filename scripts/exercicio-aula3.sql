@@ -59,16 +59,16 @@ insert into Palcos (nome, capacidade) values ('Palco Acústico', 1500);
 -- ATUALIZAR INFORMAÇÕES
 
 -- A banda "Jazz & Java" decidiu mudar seu nome para "Jazz Fusion". Atualize o nome dela na tabela Bandas.
--- ?
+update bandas set nome='Jazz Fusion' where nome='Jazz & Java';
 
 -- O preço dos ingressos para os shows no "Palco Solar" deve ser aumentado em 10%. Suponha que os preços originais variam.
 update shows set preco = preco * 1.1 where id_palco=1;
 
 -- Aumentar em 10% o preco de todos os shows
--- ?
+update shows set preco = preco * 1.1;
 
 -- DELETAR DADOS
 
 -- Suponha que o "Palco Lunar" será fechado para reformas, e todos os shows planejados para esse palco precisam ser cancelados. 
 -- Delete esses shows da tabela Shows.
--- ?
+delete from shows where id_palco=2;
