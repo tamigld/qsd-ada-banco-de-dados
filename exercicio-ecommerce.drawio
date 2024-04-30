@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-30T17:43:50.163Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="pOkYLVVVrOUBZuAUZD23" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-30T18:00:16.847Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ugOeb2gw2p-PIRJIpDwK" version="24.3.1" type="github">
   <diagram name="Página-1" id="ce4d6Iq2y5O7vSYh0Li5">
-    <mxGraphModel dx="1100" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="969" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -79,12 +79,12 @@
         </mxCell>
         <mxCell id="Kou9VrLQ38Bds4xAWFY6-44" value="n" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Kou9VrLQ38Bds4xAWFY6-41">
           <mxGeometry x="-0.706" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Kou9VrLQ38Bds4xAWFY6-46" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Kou9VrLQ38Bds4xAWFY6-41">
           <mxGeometry x="0.6907" y="1" relative="1" as="geometry">
-            <mxPoint x="-6" as="offset" />
+            <mxPoint x="18" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Kou9VrLQ38Bds4xAWFY6-20" value="produto_pedido" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Kou9VrLQ38Bds4xAWFY6-62">
